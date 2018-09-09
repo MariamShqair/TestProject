@@ -17,4 +17,9 @@ Route::get('/', function () {
 get('about',function(){
  
 	return 'About Page';
+}); 
+get('reporting',function(){
+
+	return 'Reporting feature';
+
 });
