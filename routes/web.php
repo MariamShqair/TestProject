@@ -14,7 +14,12 @@
 Route::get('/', function () {
     return view('welcome');
 });
-get('abuot',function(){
+get('about',function(){
  
 	return 'About Page';
+}); 
+get('reporting',function(){
+
+	return 'Reporting feature';
+
 });
