@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                  master page changes in   Laravel home page
                 </div>
 
                 <div class="links">
