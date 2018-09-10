@@ -23,3 +23,4 @@ Route::get('reporting',function(){
 	return 'Reporting feature';
 
 });
+Route::get('stash','StashController');
