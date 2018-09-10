@@ -14,11 +14,11 @@
 Route::get('/', function () {
     return view('welcome');
 });
-get('about',function(){
+Route::get('about',function(){
  
 	return 'About Page';
 }); 
-get('reporting',function(){
+Route::get('reporting',function(){
 
 	return 'Reporting feature';
 
